@@ -1,4 +1,4 @@
-package ixo.mobile.myapplication
+package ixo.mobile.mylibrary
 
 object Alma {
 
